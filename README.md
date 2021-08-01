@@ -30,8 +30,6 @@ FBOSINT is an accurate facebook account information gathering, all sensitive inf
               Facebook Open-source intelligence (OSINT)
                              
 ```
-FBOSINT is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
-
 
 
 # [ Installation ]
@@ -59,25 +57,26 @@ $ python2
 
 ![CONTACT](https://user-images.githubusercontent.com/62640070/127774253-eb3a13c1-3d3a-4573-bcdc-b1f47e8e4fc0.jpg)
 
-Join our YOUTUBE CHANNEL
+# Join our YOUTUBE CHANNEL
 https://youtube.com/channel/UCS_JfLCepQ
 
-Follow us on  INSTAGRAM 
+# Follow us on  INSTAGRAM 
 https://www.instagram.com/cyber_kith?r=nametag
 
-Join our TELEGRAM CHANNEL
+#Join our TELEGRAM CHANNEL
 https://t.me/joinchat/VEL_L2ANADtBvXFc
 
-Join our WHATSAPP GROUP
-1️⃣ 
+# Join our WHATSAPP GROUP
+
+# GROUP1️⃣ 
 https://chat.whatsapp.com/KeIUvFzIasEHwv7HeilqLr
-2️⃣
+# GROUP2️⃣
 https://chat.whatsapp.com/GsT0wHGqzlFLxWXOxIck0h
-3️⃣
+# GROUP3️⃣
 https://chat.whatsapp.com/LmSz6lzfBGqInhUPKOEtJ5
-4️⃣
+# GROUP4️⃣
 https://chat.whatsapp.com/JOzonjNV5Ic0B7hSuRcqUO
-5️⃣
+# GROUP5️⃣
 https://chat.whatsapp.com/BoRAiiIH2OvK5GrFrL4jqn
 
 
