@@ -46,7 +46,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 
+$ python2 FBOSINT.py
 ```
 
 # [ Screenshot ]
