@@ -19,25 +19,7 @@ try:
 	import requests
 except ImportError:
 	print  R+ ' '            
-            print         ' ;;,.'                     .center(43)           
-            print         '.cx.: o;;,.'                  .center(44)
-            print        ':;-     .Oxx.'.center(44)
-	    print      ',o;         o;:'.center(40)
-	    print     '.,o;          o;:'.center(40)
-            print     'lOk:.         .  '.center(39)
-            print  '.:coklo::.        '.center(39)   
-            print '.oddON00d;...      '.center(36)
-            print ':d;xckXKX0Od.:ld.o '.center(36)
-            print './; :,dXXXNXclKk;0  .    '.center(36)
-            print     '::coXKWWXKkkkKcl,;.  '.center(38)
-	    print     'o,  :ONNNOk0NKKxklxOc:Ox0xx.    '.center(50)
-	    print     '.    kdd00KKXKN0kdx,  .cxNooK.   '.center(50)
-	    print    '.    .c lxk0KXdl;,c,l. ..;xxdco:  '.center(50)
-	    print          'c cok;oc.  .,d,,cxOO:cdo.l. '.center(50)
-	    print          '. ;:kXWOO, ckkkxxxccc0dk,.  '.center(50)
-	    print             '.kk;.,l  oOxl:-lOKNNKx.  '.center(50)
-	    print              'olcc, ;d....8: *c...    '.center(50)
-	    print (R+ '.Oo   .;;.'  'cyber kith' ).center(53)
+           
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
