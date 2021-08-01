@@ -58,7 +58,7 @@ $ python2 FBOSINT.py
 ![CONTACT](https://user-images.githubusercontent.com/62640070/127774253-eb3a13c1-3d3a-4573-bcdc-b1f47e8e4fc0.jpg)
 
 # Join our YOUTUBE CHANNEL
-https://youtube.com/channel/UCS_JfLCepQ
+https://www.youtube.com/c/cyberkith
 
 # Follow us on  INSTAGRAM 
 https://www.instagram.com/cyber_kith?r=nametag
