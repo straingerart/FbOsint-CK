@@ -49,7 +49,7 @@ $ pip2 install -r requirements.txt
 $ python2 FBOSINT.py
 ```
 
-# Usage
+# [Usage]
 ```
 > help 
 > token (create token)
