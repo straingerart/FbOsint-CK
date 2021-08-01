@@ -49,6 +49,12 @@ $ pip2 install -r requirements.txt
 $ python2 FBOSINT.py
 ```
 
+# Usage
+```
+> help 
+> token (create token)
+> get_data (collecting datas of users)
+```
 # [ Screenshot ]
 
 ![fbosint](https://user-images.githubusercontent.com/62640070/127774053-27f37f1e-99c9-436d-880a-d962c1fd3557.png)
