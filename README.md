@@ -55,6 +55,13 @@ $ python2 FBOSINT.py
 > token (create token)
 > get_data (collecting datas of users)
 ```
+
+
+* if you are confused how to use it, please type 'help' to display the help menu
+* [Warn] please turn off your VPN before using this program !!!
+* [Tips] do not overuse this program !!!
+
+
 # [ Screenshot ]
 
 ![fbosint](https://user-images.githubusercontent.com/62640070/127774053-27f37f1e-99c9-436d-880a-d962c1fd3557.png)
