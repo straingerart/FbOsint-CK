@@ -36,7 +36,7 @@ FBOSINT is an accurate facebook account information gathering, all sensitive inf
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/straingerart/FbOsint-CyB3r-kit
+$ git clone https://github.com/straingerart/FbOsint-Ck
 $ cd FbOsint-CyB3r-kit
 ```
 
